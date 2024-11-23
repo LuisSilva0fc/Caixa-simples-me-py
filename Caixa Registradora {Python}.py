@@ -1,6 +1,5 @@
 # Caixa de Registradora de Vendas e Produtos
-# Obs: Para não sobrecarregar de comentários, ja que um programa que possui diversas "sintaxe repetitivas" iremos fazer comentários das principais funções base...
-
+# Obs: eu sou novo por aqui... caso eu tenha documentado de forma erronica alguma função, comente. Estou aberto a comentários construtivos.
 # "Listas para armazenar o Dicionário" dos produtos e registro de cliente
 produtos = []
 histórico_de_vendas = []
